@@ -1,0 +1,15 @@
+name: arb
+description: Arb file parser for dart and flutter.
+version: 0.0.4
+author: 'Jaime <git@jaimeblasco.com>'
+homepage: 'https://github.com/jamesblasco/dart_arb'
+
+environment:
+  sdk: ">=2.4.0 <3.0.0"
+
+dependencies:
+  args: ^1.5.2
+  path: ^1.6.4
+
+
+
